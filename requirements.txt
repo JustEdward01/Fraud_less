@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 faker
 pandas
 sqlalchemy
 psycopg2-binary
 fastapi
 uvicorn
+=======
+faker
+pandas
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+>>>>>>> ff11b32a3057a9c25c040f03ff963f82d4178fc4
 streamlit
