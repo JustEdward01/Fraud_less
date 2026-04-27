@@ -1,0 +1,7 @@
+faker
+pandas
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn
+streamlit
